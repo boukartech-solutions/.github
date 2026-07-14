@@ -1,6 +1,6 @@
 <div align="center">
   <img src="logo.jpg" alt="BoukarTech Solutions Logo" width="180" />
-  <h1>BoukarTech Solutions</h1>
+  <h1>BoukarTech Solutions Ltd</h1>
   <p><strong>Engineering the future of digital business. Since 2023.</strong></p>
   
   <p>
