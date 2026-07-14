@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="logo.png" alt="BoukarTech Solutions Logo" width="180" />
+  <img src="logo.jpg" alt="BoukarTech Solutions Logo" width="180" />
   <h1>BoukarTech Solutions</h1>
   <p><strong>Engineering the future of digital business. Since 2023.</strong></p>
   
