@@ -47,8 +47,6 @@ We transform complex ideas into digital success stories across various industrie
 *   **Ayoka Films** — A cinematic media hub designed to showcase high-fidelity video content and studio services.
 *   **Ashy Wineish Farms** — An agricultural commerce platform bridging the gap between farm-to-table produce and modern digital consumers.
 *   **Jude Iria & Strategic Branding** — High-conversion personal branding and business strategy platforms.
-*   **PropTech & AI Labs** — R&D initiatives involving *RentChain* (decentralized property management), *Vitalink* (real-time health monitoring), and *AreaHustle* (voice-first AI marketplaces).
-
 ---
 
 ## 📫 Let’s Connect
